@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+gensim
+imblearn
+speech_recognition
+pyaudio
+joblib
+nltk
+pydub
+ffmpeg
