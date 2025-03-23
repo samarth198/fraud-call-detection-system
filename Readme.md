@@ -72,3 +72,9 @@ python audiofile_detection.py
 
 ## 📜 License
 This project is licensed under the **MIT License**.
+
+## Contributors
+- [Yadnesh Firake](https://www.linkedin.com/in/yadnesh-firake/)
+- [Samarth Dol](https://www.linkedin.com/in/samarth-dol/)
+- [Anuj Dikshit](https://www.linkedin.com/in/anuj-dikshit/)
+- [Atharv Diwan]
